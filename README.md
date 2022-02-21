@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @C-zar-Hat-ai
+- 🎓 B.S in Information Systems from UTA
 - 👀 I’m interested in Game Development & Bot Development 
 - 🌱 I’m currently learning Blender, Python and C#
 - 💞️ Right now I am focused on personal projects involving game development
